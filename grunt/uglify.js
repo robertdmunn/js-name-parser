@@ -12,7 +12,7 @@ module.exports = {
 	},
 	dist: {
 		files: {
-			'dist/browser-shims.min.js' : [ 'src/browser-shims.js']
+			'dist/browser-shims.min.js' : [ 'dist/browser-shims.js']
 		}
 	}
 };

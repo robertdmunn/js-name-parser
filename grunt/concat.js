@@ -7,5 +7,9 @@ module.exports = {
 	jquery : {
 		src : [ 'src/wrappers/jquery/jquery.pre.js','src/nameparse.js','src/wrappers/jquery/jquery.post.js' ],
 		dest : 'dist/jquery.<%= pkg.name %>.js'
+	},
+	shims : {
+		src : [ 'src/browser-shims.js' ],
+		dest : 'dist/browser-shims.js'
 	}
 };
