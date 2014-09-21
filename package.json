@@ -13,7 +13,7 @@
   },
   "keywords": ["javascript", "name", "parser", "jquery"]
   ,
-  "main": "./dist/js.name.parser.js",
+  "main": "./dist/js-name-parser.js",
   	"devDependencies": {
     "grunt-contrib-uglify": "0.6.0",
     "grunt-contrib-concat": "0.5.0",
