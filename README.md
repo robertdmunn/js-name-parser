@@ -27,5 +27,5 @@ We start by splitting the full name into separate words. We then do a dictionary
 
 * Based on [PHP Name Parser](http://www.onlineaspect.com/2009/08/17/splitting-names/) by [Josh Fraser](http://joshfraser.com)
 * Ported to JavaScript by [Mark Pemburn](http://pemburnia.com)
-* Turned into jQuery plugin [jQuery-Name-Parser](https://github.com/robertdmunn/jQuery-Name-Parser) by [Robert Munn] 
+* Turned into jQuery plugin [jQuery-Name-Parser](https://github.com/robertdmunn/jQuery-Name-Parser) by Robert Munn
 * Released under Apache 2.0 license
