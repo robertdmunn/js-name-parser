@@ -2,7 +2,11 @@
   "name": "js-name-parser",
   "version": "1.0.0",
   "description": "JavaScript library to split names into their respective components (first, last, etc)",
-  "author": "js-name-parser Authors <https://github.com/robertdmunn/js-name-parser>",
+  "authors": [
+    "Josh Fraser (http://joshfraser.com)",
+    "Mark Pemburn (http://pemburnia.com)",
+    "Robert Munn <robert.d.munn@gmail.com>"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/robertdmunn/js-name-parser.git"
