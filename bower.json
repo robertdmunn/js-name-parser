@@ -26,8 +26,10 @@
   "license": "ASL 2.0",
   "ignore": [
     "**/.*",
-    "node_modules",
+  	"grunt",
     "bower_components",
+	"node_modules",
+	"Gruntfile.js",
     "test",
     "tests"
   ]
