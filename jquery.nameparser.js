@@ -30,7 +30,11 @@
 	// - middle initials
 	// - surname / last name 
 	// - suffix (II, Phd, Jr, etc)
-		
+	
+	function NameParse() {
+		return NameParse;
+	}
+	
 	NameParse.parse = function (fullastName) {
 		fullastName = fullastName.trim();
 	
