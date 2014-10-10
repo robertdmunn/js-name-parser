@@ -1,6 +1,6 @@
 {
   "name": "js-name-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript library to split names into their respective components (first, last, etc)",
   "authors": [
     "Josh Fraser (http://joshfraser.com)",
