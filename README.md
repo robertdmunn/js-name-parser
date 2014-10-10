@@ -6,7 +6,7 @@ JavaScript library to split names into their respective components (first, last,
 
 jQuery plugin:
 
-	var parsed = $.NameParse.parse("Mr. Charles P. Wooten, III");
+	var parsed = $.fn.NameParse.parse("Mr. Charles P. Wooten, III");
 
 
 **Results:**
